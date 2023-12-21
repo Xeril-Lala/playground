@@ -1,0 +1,5 @@
+Aplicacion que tendra varios modulos los cuales realizaran diversas tareas, basicamente un playground para aprender.
+
+- SPA
+- API Clima
+- SPA https://www.youtube.com/watch?v=JmSb1VFoP7w&t=311s&ab_channel=DevDrawer
