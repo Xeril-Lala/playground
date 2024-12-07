@@ -1,6 +1,6 @@
 document.addEventListener("click", (e) => {
     const {target} = e;
-    if(!targert.matches("nav a")){
+    if(!target.matches("nav a")){
         return;
     }
     e.preventDefault();
